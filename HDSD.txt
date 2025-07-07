@@ -1,6 +1,6 @@
 backend : .\mvnw.cmd spring-boot:run
 
-front end : neu chua có node modules thì chay lenh này : npm intall
+front end : neu chua có node modules thì chay lenh này : npm install
 còn neu có thì bo qua lenh npm install
 va lenh chay la : npm start
 phan mem yeu cau java + nodejs
